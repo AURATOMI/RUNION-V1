@@ -1,0 +1,7 @@
+{
+  "name": "Runion - System Creation IDE",
+  "description": "Domain-agnostic System Creation IDE to model, connect, visualize, and validate complex structured systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
